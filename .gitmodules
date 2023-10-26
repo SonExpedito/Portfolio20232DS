@@ -1,0 +1,3 @@
+[submodule "ADAPLAY"]
+	path = ADAPLAY
+	url = https://github.com/SonExpedito/ADAPLAY
